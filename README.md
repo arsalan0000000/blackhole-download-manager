@@ -1,9 +1,3 @@
-# Blackhole Download Manager 🕳️
-
-An all-in-one download manager, built as a Chrome extension.
-
-As a video editor, I always struggled to download just a small part of a long video — huge files, low quality, extra cutting after. I couldn't find a tool that did it well, so I tried building one myself. This is the result.
-
 ## ✨ Features
 
 ⏱️ **Clip cutter** — download only a chosen part of a video (set start & end time)
